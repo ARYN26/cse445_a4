@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  
+  <!-- Sample hotel from Figure 1 -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Additional real hotels -->
+  <Hotel Rating="4.5">
+    <Name>Marriott Phoenix Desert Ridge Resort</Name>
+    <Phone>480-293-5000</Phone>
+    <Phone>800-228-9290</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5350</Number>
+      <Street>E Marriott Dr</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85054</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Hilton Phoenix Airport</Name>
+    <Phone>480-997-4000</Phone>
+    <Address>
+      <Number>2435</Number>
+      <Street>S 47th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85034</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="3.8">
+    <Name>Embassy Suites Phoenix Scottsdale</Name>
+    <Phone>480-949-1414</Phone>
+    <Phone>800-362-2779</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>5001</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85250</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.1">
+    <Name>Four Points by Sheraton Phoenix South</Name>
+    <Phone>602-438-8900</Phone>
+    <Address>
+      <Number>10831</Number>
+      <Street>S 51st St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85044</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Hampton Inn Phoenix Airport</Name>
+    <Phone>602-273-7778</Phone>
+    <Phone>800-426-7866</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>507</Number>
+      <Street>N 44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.3">
+    <Name>Hyatt Regency Scottsdale Resort</Name>
+    <Phone>480-444-1234</Phone>
+    <Address>
+      <Number>7500</Number>
+      <Street>E Doubletree Ranch Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85258</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Comfort Inn Phoenix West</Name>
+    <Phone>623-846-0232</Phone>
+    <Address>
+      <Number>8473</Number>
+      <Street>W Paradise Ln</Street>
+      <City>Peoria</City>
+      <State>AZ</State>
+      <Zip>85382</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="3.9">
+    <Name>Best Western Plus Phoenix Goodyear Inn</Name>
+    <Phone>623-932-3210</Phone>
+    <Phone>800-780-7234</Phone>
+    <Address>
+      <Number>1188</Number>
+      <Street>N Dysart Rd</Street>
+      <City>Goodyear</City>
+      <State>AZ</State>
+      <Zip>85338</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.0">
+    <Name>Courtyard Phoenix Mesa</Name>
+    <Phone>480-461-3000</Phone>
+    <Address NearestAirport="Falcon Field">
+      <Number>1221</Number>
+      <Street>S Westwood Dr</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>La Quinta Inn Phoenix Coliseum</Name>
+    <Phone>602-258-6271</Phone>
+    <Phone>800-531-5900</Phone>
+    <Address>
+      <Number>914</Number>
+      <Street>E Van Buren St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85006</Zip>
+    </Address>
+  </Hotel>
+  
+</Hotels>
