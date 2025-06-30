@@ -16,7 +16,7 @@
     </Address>
   </Hotel>
   
-  <!-- Additional real hotels -->
+  <!-- Additional real hotels (10 required) -->
   <Hotel Rating="4.5">
     <Name>Marriott Phoenix Desert Ridge Resort</Name>
     <Phone>480-293-5000</Phone>
